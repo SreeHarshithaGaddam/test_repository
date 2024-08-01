@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name:  test1
+spec:
+  type: grpc
+  lifecycle: experimental
+  owner: team-c
+  definition: undefined
